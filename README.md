@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanar&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suleymanar" alt="suleymanar" /></a> </p>
-
 - 🔭 I’m currently working on **Private Indie Video Games**
 
 - 🌱 I’m currently learning **C#, JavaScript, SQL**
