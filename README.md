@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanar&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanar" /> </p>
 
-- 🔭 I’m currently working on **Private Indie Video Games**
+- 🔭 I’m currently working on **Indie Video Games**
 
-- 🌱 I’m currently learning **C#, JavaScript, SQL**
+- 🌱 I’m currently learning **C#, Java, C++**
 
 - 📫 How to reach me **suleymanarabkhanov@gmail.com**
 
